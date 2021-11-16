@@ -1,0 +1,12 @@
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\bin\Debug\net5.0\HailStromAnalysisService.deps.json
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\bin\Debug\net5.0\HailStromAnalysisService.dll
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\bin\Debug\net5.0\ref\HailStromAnalysisService.dll
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\bin\Debug\net5.0\HailStromAnalysisService.pdb
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.csproj.AssemblyReference.cache
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.AssemblyInfoInputs.cache
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.AssemblyInfo.cs
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.csproj.CoreCompileInputs.cache
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.dll
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\ref\HailStromAnalysisService.dll
+C:\Dinesh\Hackathone\Code\HailStromAnalysisAPI\HailStromAnalysisAPI\HailStromAnalysisService\obj\Debug\net5.0\HailStromAnalysisService.pdb
