@@ -1,0 +1,25 @@
+<!-- Toolbar -->
+<div class="toolbar" role="banner">
+  <img src="https://dover.sharepoint.com/sites/DIIC/DoverIntranetAssets/Header%20Menu%20Section/Dover.png?ctag=211116" alt="logo" class="logo-image" data-themekey="#">
+  <span>HailStorm Prediction System</span>
+    <div class="spacer">
+      
+    </div>
+</div>
+<br/><br/>
+<div class="tabGap">
+  <nav mat-tab-nav-bar>
+  
+    <a mat-tab-link class="my-tab-class" routerLink="/state" routerLinkActive #stateTab="routerLinkActive" [active]="stateTab.isActive">
+      State
+    </a>
+    <a mat-tab-link class="my-tab-class" routerLink="/month" routerLinkActive #monthTab="routerLinkActive" [active]="monthTab.isActive">Month</a>
+  
+    <a mat-tab-link class="my-tab-class" routerLink="/location" routerLinkActive #locationTab="routerLinkActive" [active]="locationTab.isActive">Location</a>
+  
+  </nav>
+</div>
+
+
+
+<router-outlet></router-outlet>

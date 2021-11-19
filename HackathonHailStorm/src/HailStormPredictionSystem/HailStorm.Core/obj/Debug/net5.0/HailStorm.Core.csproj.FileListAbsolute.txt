@@ -1,0 +1,12 @@
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\bin\Debug\net5.0\HailStorm.Core.deps.json
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\bin\Debug\net5.0\HailStorm.Core.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\bin\Debug\net5.0\ref\HailStorm.Core.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\bin\Debug\net5.0\HailStorm.Core.pdb
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.AssemblyInfoInputs.cache
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.AssemblyInfo.cs
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.csproj.CoreCompileInputs.cache
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\ref\HailStorm.Core.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.pdb
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Core\obj\Debug\net5.0\HailStorm.Core.csprojAssemblyReference.cache

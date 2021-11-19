@@ -1,0 +1,17 @@
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\Cosmos.CRTCompat.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\HailStorm.Infrastructure.deps.json
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\HailStorm.Infrastructure.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\ref\HailStorm.Infrastructure.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\HailStorm.Infrastructure.pdb
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\HailStorm.Core.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\bin\Debug\net5.0\HailStorm.Core.pdb
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.csprojAssemblyReference.cache
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.AssemblyInfoInputs.cache
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.AssemblyInfo.cs
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.csproj.CopyComplete
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\ref\HailStorm.Infrastructure.dll
+E:\Hackathon\HackathonHailStorm\src\HailStormPredictionSystem\HailStorm.Infrastructure\obj\Debug\net5.0\HailStorm.Infrastructure.pdb
